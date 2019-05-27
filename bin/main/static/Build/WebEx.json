@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TESTField",
+"dataUrl": "WebEx.data.unityweb",
+"asmCodeUrl": "WebEx.asm.code.unityweb",
+"asmMemoryUrl": "WebEx.asm.memory.unityweb",
+"asmFrameworkUrl": "WebEx.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
